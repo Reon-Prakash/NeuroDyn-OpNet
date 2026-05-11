@@ -1,0 +1,16 @@
+SADT LOSO Cross-Validation Summary
+=======================================================
+Subject  1  Acc=70.05%  F1=0.6959
+Subject  2  Acc=77.86%  F1=0.7786
+Subject  3  Acc=70.47%  F1=0.7031
+Subject  4  Acc=71.43%  F1=0.7104
+Subject  5  Acc=90.13%  F1=0.9011
+Subject  6  Acc=93.94%  F1=0.9392
+Subject  7  Acc=59.41%  F1=0.5915
+Subject  8  Acc=79.85%  F1=0.7982
+Subject  9  Acc=72.20%  F1=0.7211
+Subject 10  Acc=73.83%  F1=0.7355
+Subject 11  Acc=67.11%  F1=0.6547
+-------------------------------------------------------
+Mean Acc : 75.12% +/- 9.49%
+Mean F1  : 0.7481 +/- 0.0971
