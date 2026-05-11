@@ -734,8 +734,8 @@ def validate_preprocessed_data(
 if __name__ == "__main__":
 
     # ── 1. File paths ─────────────────────────────────────────────────────────
-    seed_path = r'C:\Users\KIIT0001\.vscode\Codes\NeuroDyn-OpNet2\SEED_VIG.mat'
-    sadt_path = r'C:\Users\KIIT0001\.vscode\Codes\NeuroDyn-OpNet2\dataset.mat'
+    seed_path = r'C:\Users\KIIT0001\.vscode\Codes\NeuroDyn-OpNet\SEED_VIG.mat'
+    sadt_path = r'C:\Users\KIIT0001\.vscode\Codes\NeuroDyn-OpNet\dataset.mat'
 
     # ── Placeholders (prevent NameError in save block on partial failure) ──────
     seed_eeg    = None
