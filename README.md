@@ -9,4 +9,7 @@ Run the codes exactly in this manner.
 You might need to change the location in these codes according to your location of datasets and codes etc.
 Some codes give more files as output too, so you should be aware of that.
 Training the model takes 1-1.5 hours, so its important to not do anything in your laptop at that point of time else the training might be delayed.(close other background apps(recommended))
-So according to my model and preprocessing algorithm.
+So according to my model and preprocessing algorithm, you can see the stats in loso_results_summary.txt.
+Rest if any doubt ask AI models by uploading these codes.
+There were many other files that got created as I mentioned, but I am not uploading them.
+Peace V
