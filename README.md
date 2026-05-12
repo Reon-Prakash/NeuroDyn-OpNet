@@ -12,4 +12,5 @@ Training the model takes 1-1.5 hours, so its important to not do anything in you
 So according to my model and preprocessing algorithm, you can see the stats in loso_results_summary.txt.
 Rest if any doubt ask AI models by uploading these codes.
 There were many other files that got created as I mentioned, but I am not uploading them.
+A google colab link has been added too, there you can directly work on the code. There are slight differences in the code but they work the same.
 Peace V
