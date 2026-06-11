@@ -13,4 +13,7 @@ So according to my model and preprocessing algorithm, you can see the stats in l
 Rest if any doubt ask AI models by uploading these codes.
 There were many other files that got created as I mentioned, but I am not uploading them.
 A google colab link has been added too, there you can directly work on the code. There are slight differences in the code but they work the same.
+
+Update:
+I have completed the work and the final work has been uploaded. The name of the file is "NeuroDyn_V4_version3.ipynb". It is a jupyter file. Run it locally, just change the directory and make sure the datasets are in that directory.
 Peace V
